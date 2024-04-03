@@ -1,0 +1,9 @@
+N O   O P
+s e t   z   1 0 0 0   1 6
+s e t   a   1   1 6
+s e t   b   2   1 6
+s e t   d   3   1 6
+s e t   g   6 9   1 6
+N O   O P
+s e t   d   4   1 7
+s e t   h i m a n 2   b h a i c h a r a   1 7
