@@ -44,7 +44,3 @@ The **`serve`** function initializes a gRPC server for each node and starts serv
 ## **Contributing**
 
 Contributions are welcome! Feel free to submit issues or pull requests for any improvements or bug fixes.
-
-## **License**
-
-This project is licensed under the MIT License. See the LICENSE file for details.
